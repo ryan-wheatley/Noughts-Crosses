@@ -1,0 +1,2 @@
+C:\Users\Ryan Wheatley\Documents\GitHub\Noughts---Crosses\Noughts-Crosses\Debug\Noughts-Crosses.exe
+C:\Users\Ryan Wheatley\Documents\GitHub\Noughts---Crosses\Noughts-Crosses\Debug\Noughts-Crosses.pdb
